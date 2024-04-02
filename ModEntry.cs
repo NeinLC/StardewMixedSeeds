@@ -199,7 +199,7 @@ namespace SeedMod
                     __result = seedID;                        
                 }
 
-                // ANything not a mixed seed just returns it's ID
+                // Anything not a mixed seed just returns it's ID
                 else 
                 {
                     __result = itemId;
