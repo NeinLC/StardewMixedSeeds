@@ -47,19 +47,19 @@ namespace SeedMod
 
         public class SeedPatch
         {
-            
-            
+
+            // Gets the game location for use in postfix
             public static void Prefix(out GameLocation __state)
             {                
                 __state = new GameLocation();
             }
 
 
-
+            // Returns the list of seeds for the game season
             public static List<Seed> GetSeedList(Season season)
             {
 
-                // Lists of seeds and assigned drop chance, numbers are ratios to each other
+                // Lists of seeds and assigned drop chance, numbers are ratios to each other.
                 // TO DO: Figure out how to call lists from a config file that can be edited easily
 
                 List<Seed> springSeeds = new List<Seed>
