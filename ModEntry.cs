@@ -161,6 +161,7 @@ namespace SeedMod
 
                 else if (itemId == "770")
                 {
+                    // Get a seedlist for the current location's season
                     List<Seed> seedList = GetSeedList(currentLocation.GetSeason()); 
 
                     Random rand = new Random();
@@ -198,6 +199,7 @@ namespace SeedMod
                     __result = seedID;                        
                 }
 
+                // ANything not a mixed seed just returns it's ID
                 else 
                 {
                     __result = itemId;
