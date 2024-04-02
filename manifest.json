@@ -1,0 +1,12 @@
+{
+    "Name": "[CP]NoSeedShops",
+    "Author": "nein",
+    "Version": "1.0.1",
+    "Description": "Removes seeds from shops",
+    "UniqueID": "nein.NoSeedShops",
+    "MinimumApiVersion": "3.0.0",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}
