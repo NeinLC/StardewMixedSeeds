@@ -1,0 +1,48 @@
+{
+    "ModSettings" :
+    {         
+        "RandomizeWinter" : true,
+        "TrellisEnabled" : true,
+        "FlowersInFlowerMix" : true,
+        "RandomizeGingerIsland" : true
+    },
+     
+    "SeedSets" : [
+        {
+            "name" : "Vanilla",
+            "enabled" : true,
+            "dropChance" : 50
+        },
+        {
+            "name" : "SVE",
+            "enabled" : true,
+            "dropChance" : 20
+        },
+        {
+            "name" : "CornucopiaDefault",
+            "enabled" : false,
+            "dropChance" : 50
+        },
+        {
+            "name" : "CornucopiaExtended",
+            "enabled" : false,
+            "dropChance" : 50
+        },
+        {
+            "name" : "CornucopiaHerbs",
+            "enabled" : false,
+            "dropChance" : 50
+        },
+        {
+            "name" : "Wildflour",
+            "enabled" : false,
+            "dropChance" : 50
+        },
+        {
+            "name" : "Lumisteria",
+            "enabled" : false,
+            "dropChance" : 50
+        }         
+
+    ]      
+}

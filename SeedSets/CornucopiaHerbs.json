@@ -1,0 +1,194 @@
+{      
+    "Spring": [
+        {
+            "cropName" : "Catnip",
+            "seedID" : "Cornucopia_CatnipSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Dill",
+            "seedID" : "Cornucopia_DillSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Fenugreek",
+            "seedID" : "Cornucopia_FenugreekSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Licorice Root",
+            "seedID" : "Cornucopia_LicoriceRootSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Majoram",
+            "seedID" : "Cornucopia_MarjoramSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Parsley",
+            "seedID" : "Cornucopia_ParsleySeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        }
+        
+    ], 
+
+    "Summer": [
+        {
+            "cropName" : "Aloe",
+            "seedID" : "Cornucopia_AloeSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Chives",
+            "seedID" : "Cornucopia_ChivesSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Lemongrass",
+            "seedID" : "Cornucopia_LemongrassSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Oregano",
+            "seedID" : "Cornucopia_OreganoSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Perilla Leaves",
+            "seedID" : "Cornucopia_PerillaLeavesSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        }
+        
+    ], 
+
+    "Fall": [
+        {
+            "cropName" : "Cilantro",
+            "seedID" : "Cornucopia_CilantroSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Cumin",
+            "seedID" : "Cornucopia_CuminSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Fennel",
+            "seedID" : "Cornucopia_FennelSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Rosemary",
+            "seedID" : "Cornucopia_RosemarySeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Sage",
+            "seedID" : "Cornucopia_SageSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Tarragon",
+            "seedID" : "Cornucopia_TarragonSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Thyme",
+            "seedID" : "Cornucopia_ThymeSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Tumeric",
+            "seedID" : "Cornucopia_TurmericSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        }
+        
+        
+    ],
+
+    "Winter" : [
+        {
+            "cropName" : "Mint",
+            "seedID" : "Cornucopia_MintSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        },
+        {
+            "cropName" : "Wormwood",
+            "seedID" : "Cornucopia_WormwoodSeeds",
+            "dropChance" : 4,
+            "enabled" : true,
+            "isTrellis" : false,
+            "isFlower" : false
+        }
+
+    ]
+      
+}
+
+
+
+
+
+
+

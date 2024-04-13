@@ -1,12 +1,11 @@
 {
-    "Name": "[CP]NoSeedShops",
+    "Name": "MixedSeedMod",
     "Author": "nein",
-    "Version": "1.0.1",
-    "Description": "Removes seeds from shops",
-    "UniqueID": "nein.NoSeedShops",
+    "Version": "1.0.0",
+    "Description": "Improve mixed seeds",
+    "UniqueID": "nein.MixedSeedMod",
+    "EntryDll": "MixedSeedMod.dll",
     "MinimumApiVersion": "3.0.0",
-    "UpdateKeys": [],
-    "ContentPackFor": {
-        "UniqueID": "Pathoschild.ContentPatcher"
-    }
-}
+    "UpdateKeys": []
+  }
+  
